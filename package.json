@@ -1,0 +1,43 @@
+{
+  "name": "skeleton-offline-first",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@redux-offline/redux-offline": "^2.5.1",
+    "antd": "^3.10.8",
+    "apollo-cache-redux": "^0.1.2",
+    "apollo-client": "^2.4.6",
+    "apollo-link-http": "^1.5.5",
+    "axios": "^0.18.0",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0",
+    "localforage": "^1.7.3",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "react": "^16.6.3",
+    "react-apollo": "^2.3.1",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "redux": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "redux-devtools": "^3.4.2"
+  }
+}
